@@ -1,10 +1,10 @@
-package com.swanhtetaungphyo.quickproject;
+package com.swanhtetaungphyo.server;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class QuickProjectApplicationTests {
+class ServerApplicationTests {
 
     @Test
     void contextLoads() {

@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.swanhtetaungphyo</groupId>
-    <artifactId>QuickProject</artifactId>
+    <artifactId>server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>QuickProject</name>
-    <description>QuickProject</description>
+    <name>server</name>
+    <description>server</description>
     <url/>
     <licenses>
         <license/>
