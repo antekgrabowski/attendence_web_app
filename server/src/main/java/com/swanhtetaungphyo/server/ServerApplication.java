@@ -1,13 +1,13 @@
-package com.swanhtetaungphyo.quickproject;
+package com.swanhtetaungphyo.server;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class QuickProjectApplication {
+public class ServerApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(QuickProjectApplication.class, args);
+        SpringApplication.run(ServerApplication.class, args);
     }
 
 }
