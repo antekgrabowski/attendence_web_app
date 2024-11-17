@@ -1,0 +1,8 @@
+package com.swanhtetaungphyo.server.repo;
+
+import com.swanhtetaungphyo.server.model.Attendance;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface AttendanceRepository extends JpaRepository<Attendance, Long> {
+
+}
